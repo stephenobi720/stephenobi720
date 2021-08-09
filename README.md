@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, game development 
 - 🌱 I’m currently learning ... Python 
 - 💞️ I’m looking to collaborate on ... Anything related to coding
-- 📫 How to reach me ... Stephen457@gmail.com
+- 📫 How to reach me ... Stephenobi457@gmail.com
 
 <!---
 stephenobi720/stephenobi720 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
