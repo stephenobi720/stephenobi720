@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stephenobi720
 - 👀 I’m interested in coding, game development 
-- 🌱 I’m currently learning ... Python 
+- 🌱 I’m currently learning software engineering at ALX 
 - 💞️ I’m looking to collaborate on ... Anything related to coding
 - 📫 How to reach me ... Stephenobi457@gmail.com
 
